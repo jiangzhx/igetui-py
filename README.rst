@@ -18,3 +18,7 @@ igetui-py
   - ::pushGroupMessage  
       尚未开始
 
+已完成
+------
+igetui.py 
+含有main函数可以直接运行
