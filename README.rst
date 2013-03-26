@@ -9,11 +9,12 @@ igetui-py
 
 已完成
 ------
-::
-  - pushmessage 完成  
-  - pushSpecifyMessage  
+  - ::pushmessage 
+      完成  
+  - ::pushSpecifyMessage  
       TransmissionMsg:进行中  
       NotifyMsg:完成  
       LinkMsg:进行中  
-  - pushGroupMessage  尚未开始
+  - ::pushGroupMessage  
+      尚未开始
 
